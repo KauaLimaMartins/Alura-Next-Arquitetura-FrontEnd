@@ -1,0 +1,12 @@
+{
+  "name": "@alura/tsconfig-commons",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "lint": "Echo 'Not necessary'"
+  },
+  "files": [
+    "base.json"
+  ]
+}
